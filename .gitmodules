@@ -4,3 +4,6 @@
 [submodule "TP3-DAR2026"]
 	path = TP3-DAR2026
 	url = git@github.com:saiftriki/TP3-DAR2026.git
+[submodule "TP2-DAR2026"]
+	path = TP2-DAR2026
+	url = git@github.com:saiftriki/TP2-DAR2026.git
